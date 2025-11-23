@@ -4,6 +4,7 @@
 **Team/Developer**: Bilgin Kocak  
 **Submission Date**: 2025-11-22  
 **Contact**: bilgin.kocak@proton.me
+**App URL**: https://citadel-protocol.vercel.app/
 
 ---
 
